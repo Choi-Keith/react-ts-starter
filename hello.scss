@@ -1,0 +1,10 @@
+.father {
+	position: relative;
+	width: 200px;
+	color: #fff;
+
+	.child: {
+		position: absolute;
+		height: 200px;
+	}
+}
